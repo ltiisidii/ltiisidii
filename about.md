@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Cybersecurity Specialist  part-time bug bounty hunter  CTF  Geek  Supermoto Pilot
+Cybersecurity Specialist Part-time Bug Bounty Hunter  CTF  Geek  Supermoto Pilot
 
 ### More Information
 

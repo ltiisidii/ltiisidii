@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links
+title: BugBounty
 ---
 
 BugBounty links and tools

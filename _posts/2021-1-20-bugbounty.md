@@ -7,6 +7,9 @@ BugBounty links and tools
 
 - XSS: [htmlpurifier org Xss Attacks](http://htmlpurifier.org/live/smoketests/xssAttacks.php)
 
+Training: 
+- [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)
+
 Tools: 
 
 - [MainRecon](https://github.com/l34r00t/mainRecon)

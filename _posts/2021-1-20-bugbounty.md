@@ -6,6 +6,7 @@ title: BugBounty
 BugBounty links and tools
 
 - XSS: [htmlpurifier org Xss Attacks](http://htmlpurifier.org/live/smoketests/xssAttacks.php)
+- XSS: [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

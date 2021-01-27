@@ -11,6 +11,7 @@ BugBounty links and tools
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)
+- [Prompt.ml XSS](http://prompt.ml/)
 
 Tools: 
 

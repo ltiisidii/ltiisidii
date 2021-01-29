@@ -8,6 +8,7 @@ BugBounty links and tools
 - XSS: [htmlpurifier org Xss Attacks](http://htmlpurifier.org/live/smoketests/xssAttacks.php)
 - XSS: [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
 - XSS: [#Eko2020 Bounty Hunters | Adrian Pedrazzoli: XSS de -1 a 0](https://www.youtube.com/watch?v=vTYx4DGu6w8)
+- BugCrowd Mail: [BugCrowd Email Forward](https://docs.bugcrowd.com/researchers/participating-in-program/your-bugcrowdninja-email-address/#:~:text=As%20an%20active%20Bugcrowd%20researcher,cases%20is%20required%20for%20testing.)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

@@ -11,6 +11,7 @@ BugBounty links and tools
 - BugCrowd Mail: [BugCrowd Email Forward](https://docs.bugcrowd.com/researchers/participating-in-program/your-bugcrowdninja-email-address/#:~:text=As%20an%20active%20Bugcrowd%20researcher,cases%20is%20required%20for%20testing.)
 - Awesome waf: [Awesome waf](https://github.com/0xInfection/Awesome-WAF)
 - Pentester Land: [PentesterLand](https://pentester.land/)
+- Bugbounty forum: [Bugbounty forum](https://bugbountyforum.com/tools/recon/)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

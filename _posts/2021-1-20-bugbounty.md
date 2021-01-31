@@ -12,6 +12,7 @@ BugBounty links and tools
 - Awesome waf: [Awesome waf](https://github.com/0xInfection/Awesome-WAF)
 - Pentester Land: [PentesterLand](https://pentester.land/)
 - Bugbounty forum: [Bugbounty forum](https://bugbountyforum.com/tools/recon/)
+- Automated Scanner: [Automated scanner](https://github.com/0xspade/Automated-Scanner)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

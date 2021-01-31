@@ -9,6 +9,7 @@ BugBounty links and tools
 - XSS: [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
 - XSS: [#Eko2020 Bounty Hunters | Adrian Pedrazzoli: XSS de -1 a 0](https://www.youtube.com/watch?v=vTYx4DGu6w8)
 - BugCrowd Mail: [BugCrowd Email Forward](https://docs.bugcrowd.com/researchers/participating-in-program/your-bugcrowdninja-email-address/#:~:text=As%20an%20active%20Bugcrowd%20researcher,cases%20is%20required%20for%20testing.)
+- Awesome waf: [Awesome waf](https://github.com/0xInfection/Awesome-WAF)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

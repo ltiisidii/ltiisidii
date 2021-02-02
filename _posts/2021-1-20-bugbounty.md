@@ -13,6 +13,7 @@ BugBounty links and tools
 - Pentester Land: [PentesterLand](https://pentester.land/)
 - Bugbounty forum: [Bugbounty forum](https://bugbountyforum.com/tools/recon/)
 - Automated Scanner: [Automated scanner](https://github.com/0xspade/Automated-Scanner)
+- BugBountyHunting Search Engine: [BugBountyHunting Search Engine](https://www.bugbountyhunting.com/)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

@@ -14,6 +14,7 @@ BugBounty links and tools
 - Bugbounty forum: [Bugbounty forum](https://bugbountyforum.com/tools/recon/)
 - Automated Scanner: [Automated scanner](https://github.com/0xspade/Automated-Scanner)
 - BugBountyHunting Search Engine: [BugBountyHunting Search Engine](https://www.bugbountyhunting.com/)
+- How I was able to Turn a XSS into a Account Takeover [How I was able to Turn a XSS into a Account Takeover](https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

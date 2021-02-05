@@ -15,6 +15,8 @@ BugBounty links and tools
 - Automated Scanner: [Automated scanner](https://github.com/0xspade/Automated-Scanner)
 - BugBountyHunting Search Engine: [BugBountyHunting Search Engine](https://www.bugbountyhunting.com/)
 - How I was able to Turn a XSS into a Account Takeover [How I was able to Turn a XSS into a Account Takeover](https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7)
+- OSCP Preparation Notes 
+[Offensive Security Approved OSCP Notes for Educational Purpose](https://oscpnotes.infosecsanyam.in/My_OSCP_Preparation_Notes.html)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

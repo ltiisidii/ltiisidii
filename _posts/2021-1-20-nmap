@@ -1,0 +1,64 @@
+1- Obtener información de un host remoto y detección del SO:
+
+nmap -sS -P0 -sV -O [dirección]
+
+-sS =escaneo TCP SYN (o escaneo sigiloso)
+-P0 =no se envían pings ICMP
+-sV =detecta las versiones
+-O =se intenta identificar el Sistema Operativo
+Otras opciones:
+-A =habilita OS fingerprinting y detección de versión
+-v =usar dos veces -v para obtener mas detalles
+
+2- Listar servidores con un puerto especifico abierto:
+
+nmap -sT -p 80 -oG – 192.168.1.* | grep open
+
+Cambiar el argumento -p por el numero del puerto.
+
+3- Detectar IP’s activas en una red:
+
+nmap -sP 192.168.0.*
+
+Otra opción para subnets es:
+
+nmap -sP 192.168.0.0/24
+
+4- Hacer ping a un rango de IP’s:
+
+nmap -sP 192.168.1.100-254
+
+Nmap acepta una gran variedad de rangos, notación de direcciones, objetivos múltiples, etc.
+
+5- Encontrar IP’s no usadas en una subnet:
+
+nmap -T4 -sP 192.168.2.0/24 && egrep “00:00:00:00:00:00″ /proc/net/arp
+
+6- Escanear en busca Conficker:
+
+nmap -PN -T4 -p139,445 -n -v –script=smb-check-vulns –script-args safe=1 192.168.0.1-254
+nmap -sV --script ssl-enum-ciphers -p 443 192.168.0.1-254
+
+Reemplazar 192.168.0.1-254 con las IP’s que se quiere escanear.
+
+7- Escanear red en busca de AP falsos:
+
+nmap -A -p1-85,113,443,8080-8100 -T4 –min-hostgroup 50 –max-rtt-timeout 2000 –initial-rtt-timeout 300 –max-retries 3 –host-timeout 20m –max-scan-delay 1000 -oA wapscan 10.0.0.0/8
+
+Funciona incluso en grandes redes.
+
+8- Crear un señuelo durante el escaneo de puertos para evitar ser detectado:
+
+sudo nmap -sS 192.168.0.10 -D 192.168.0.2
+
+Escanea los puertos del nodo 192.168.1.10 mientras spoofea la IP 192.168.0.2 como nodo atacante (esta IP debe estar activa) así parecerá que el escaneo se ejecuta desde la IP192.168.0.2 (la ip spoofeada). Comprobar los logs en /var/log/secure para comprobar si ha funcionado correctamente.
+
+9- Listar los registros DNS inversos de una subred:
+
+nmap -R -sL 209.85.229.99/27 | awk ‘{if($3==”not”)print”(“$2″) no PTR”;else print$3″ is “$2}’ | grep ‘(‘
+
+Este comando hace un reverse DNS lookup en una subred, se crea una lista con las direcciones IP de los registros PTR en la subred indicada. Se puede insertar la subred en notación CDIR (ejemplo: /24 para la Clase C). Puedes agregar “-dns-servers x.x.x.x” después del parámetro “-sL” si quieres realizar el listado sobre un servidor DNS especifico.
+
+10- Cuántos nodos con Linux y cuántos con Windows hay en una red:
+
+sudo nmap -F -O 192.168.0.1-255 | grep “Running: ” &gt; /tmp/os; echo “$(cat /tmp/os | grep Linux | wc -l) Linux device(s)”; echo “$(cat /tmp/os | grep Windows | wc -l) Window(s) devices

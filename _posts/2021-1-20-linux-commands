@@ -1,3 +1,8 @@
+---
+layout: post
+title: linux-commands
+---
+
 INFO: https://gracefulsecurity.com/path-traversal-cheat-sheet-linux/
 recon: nmap -sC -sV -oA nmap ip
 

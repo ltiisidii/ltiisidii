@@ -1,3 +1,8 @@
+---
+layout: post
+title: MySQL Cheatsheet
+---
+
 SQLMAP Commands Cheatsheet – 
 Fetch DB 	sqlmap -u “Your Target” –dbs
 Fetch Tables 	sqlmap -u “Your Target” -D <Database> –tables

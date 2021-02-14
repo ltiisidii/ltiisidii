@@ -1,3 +1,8 @@
+---
+layout: post
+title: Nmap ctf Cheatsheet
+---
+
 1- Obtener información de un host remoto y detección del SO:
 
 nmap -sS -P0 -sV -O [dirección]

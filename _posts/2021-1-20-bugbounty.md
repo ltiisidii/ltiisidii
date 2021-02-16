@@ -75,3 +75,5 @@ Tools:
 - [chaos](https://github.com/projectdiscovery/chaos-client)
 - [httpx](https://github.com/projectdiscovery/httpx)
 - [altdns](https://github.com/infosec-au/altdns)
+- [requestbin](https://requestbin.com)
+- [webhook site](https://webhook.site/)

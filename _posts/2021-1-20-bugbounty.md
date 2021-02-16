@@ -77,3 +77,4 @@ Tools:
 - [altdns](https://github.com/infosec-au/altdns)
 - [requestbin](https://requestbin.com)
 - [webhook site](https://webhook.site/)
+- [ssrftest](https://ssrftest.com)

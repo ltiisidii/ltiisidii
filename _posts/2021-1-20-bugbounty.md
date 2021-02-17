@@ -18,6 +18,7 @@ BugBounty links and tools
 - OSCP Preparation Notes 
 [Offensive Security Approved OSCP Notes for Educational Purpose](https://oscpnotes.infosecsanyam.in/My_OSCP_Preparation_Notes.html)
 - Amass Config Datasources: [Amass Config Datasources](https://www.hahwul.com/2020/09/23/amass-go-deep-in-the-sea-with-free-apis/)
+- Markdown editor: [Markdowneditor](https://stackedit.io/app#)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

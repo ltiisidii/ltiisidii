@@ -19,6 +19,8 @@ BugBounty links and tools
 [Offensive Security Approved OSCP Notes for Educational Purpose](https://oscpnotes.infosecsanyam.in/My_OSCP_Preparation_Notes.html)
 - Amass Config Datasources: [Amass Config Datasources](https://www.hahwul.com/2020/09/23/amass-go-deep-in-the-sea-with-free-apis/)
 - Markdown editor: [Markdowneditor](https://stackedit.io/app#)
+- [Recon with me](https://dhiyaneshgeek.github.io/bug/bounty/2020/02/06/recon-with-me/)
+- [A $1000 Bounty](https://gauravnarwani.com/a-1000-bounty/)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

@@ -22,6 +22,7 @@ BugBounty links and tools
 - [Recon with me](https://dhiyaneshgeek.github.io/bug/bounty/2020/02/06/recon-with-me/)
 - [A $1000 Bounty](https://gauravnarwani.com/a-1000-bounty/)
 - [Getting started in bug bounties: Basic Strategy](https://thexssrat.medium.com/getting-started-in-bug-bounties-basic-strategy-e592fb552004)
+- [A Pentester’s Guide to Server Side Request Forgery (SSRF)](https://cobalt.io/blog/a-pentesters-guide-to-server-side-request-forgery-ssrf)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

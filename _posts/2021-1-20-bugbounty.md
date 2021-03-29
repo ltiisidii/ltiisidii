@@ -84,3 +84,8 @@ Tools:
 - [requestbin](https://requestbin.com)
 - [webhook site](https://webhook.site/)
 - [ssrftest](https://ssrftest.com)
+
+Intigriti Challenges 
+- March 2021 [Intigriti — XSS Challenge 0321 XSS with CSRF Bypass](https://fh4ntke.medium.com/intigriti-xss-challenge-0321-472ae0a48254)
+- February 2021 [Intigriti's February XSS Challenge Writeup](https://blog.xss.am/2021/02/intigriti-february-xss-challenge/)
+- January 2021 [Intigriti’s January XSS Challenge](https://infosecwriteups.com/intigritis-january-xss-challenge-4475265edaa7)

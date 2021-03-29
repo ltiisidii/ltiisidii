@@ -23,6 +23,7 @@ BugBounty links and tools
 - [A $1000 Bounty](https://gauravnarwani.com/a-1000-bounty/)
 - [Getting started in bug bounties: Basic Strategy](https://thexssrat.medium.com/getting-started-in-bug-bounties-basic-strategy-e592fb552004)
 - [A Pentester’s Guide to Server Side Request Forgery (SSRF)](https://cobalt.io/blog/a-pentesters-guide-to-server-side-request-forgery-ssrf)
+- [tomnomnom xss payloads](https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

@@ -25,6 +25,7 @@ BugBounty links and tools
 - [A Pentester’s Guide to Server Side Request Forgery (SSRF)](https://cobalt.io/blog/a-pentesters-guide-to-server-side-request-forgery-ssrf)
 - [tomnomnom xss payloads](https://gist.github.com/tomnomnom/14a918f707ef0685fdebd90545580309)
 - [Missing CORS leads to Complete Account Takeover](https://nirajmodi51.medium.com/missing-cors-leads-to-complete-account-takeover-1ed4b53bf9f2)
+- [Bug Bounty Dorks](https://github.com/sushiwushi/bug-bounty-dorks)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

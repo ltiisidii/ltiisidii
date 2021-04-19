@@ -27,6 +27,7 @@ BugBounty links and tools
 - [Missing CORS leads to Complete Account Takeover](https://nirajmodi51.medium.com/missing-cors-leads-to-complete-account-takeover-1ed4b53bf9f2)
 - [Bug Bounty Dorks](https://github.com/sushiwushi/bug-bounty-dorks)
 - [Fuzzing DNS](https://twitter.com/DragonJAR/status/1314592475831468036?s=20)
+- [Bypass XSS filters using data URIs](https://www.paladion.net/blogs/bypass-xss-filters-using-data-uris)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

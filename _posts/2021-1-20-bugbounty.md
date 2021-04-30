@@ -33,6 +33,8 @@ BugBounty links and tools
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)
 - [Prompt.ml XSS](http://prompt.ml/)
+- [Kontra OWASP Top 10 for Web](https://application.security/free/owasp-top-10)
+- [Kontra OWASP Top 10 for API](https://application.security/free/owasp-top-10-API)
 
 Tools: 
 

@@ -29,6 +29,7 @@ BugBounty links and tools
 - [Fuzzing DNS](https://twitter.com/DragonJAR/status/1314592475831468036?s=20)
 - [Bypass XSS filters using data URIs](https://www.paladion.net/blogs/bypass-xss-filters-using-data-uris)
 - [OSINT with Dorks](https://dorks.faisalahmed.me/?fbclid=IwAR37l4KS21HbYPNAnNkEdh8fwEP8Vo-ekDwNkLYoLsQPWR9ulvBpGY9YrSw#)
+- [All is XSS that comes to the .NET](https://blog.isec.pl/all-is-xss-that-comes-to-the-net/)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

@@ -15,8 +15,6 @@ BugBounty links and tools
 - Automated Scanner: [Automated scanner](https://github.com/0xspade/Automated-Scanner)
 - BugBountyHunting Search Engine: [BugBountyHunting Search Engine](https://www.bugbountyhunting.com/)
 - How I was able to Turn a XSS into a Account Takeover [How I was able to Turn a XSS into a Account Takeover](https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7)
-- [Stealing JWTs in localStorage via XSS](https://github.com/ltiisidii/ltiisidii/blob/master/_posts/2021-1-20-bugbounty.md)
-
 - OSCP Preparation Notes 
 [Offensive Security Approved OSCP Notes for Educational Purpose](https://oscpnotes.infosecsanyam.in/My_OSCP_Preparation_Notes.html)
 - Amass Config Datasources: [Amass Config Datasources](https://www.hahwul.com/2020/09/23/amass-go-deep-in-the-sea-with-free-apis/)
@@ -32,6 +30,7 @@ BugBounty links and tools
 - [Bypass XSS filters using data URIs](https://www.paladion.net/blogs/bypass-xss-filters-using-data-uris)
 - [OSINT with Dorks](https://dorks.faisalahmed.me/?fbclid=IwAR37l4KS21HbYPNAnNkEdh8fwEP8Vo-ekDwNkLYoLsQPWR9ulvBpGY9YrSw#)
 - [All is XSS that comes to the .NET](https://blog.isec.pl/all-is-xss-that-comes-to-the-net/)
+- [Stealing JWTs in localStorage via XSS](https://github.com/ltiisidii/ltiisidii/blob/master/_posts/2021-1-20-bugbounty.md)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

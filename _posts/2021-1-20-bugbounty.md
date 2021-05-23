@@ -32,7 +32,8 @@ BugBounty links and tools
 - [All is XSS that comes to the .NET](https://blog.isec.pl/all-is-xss-that-comes-to-the-net/)
 - [Stealing JWTs in localStorage via XSS](https://github.com/ltiisidii/ltiisidii/blob/master/_posts/2021-1-20-bugbounty.md)
 - [Git tricks](https://www.adityathebe.com/journal/4)
- 
+- [Accessing a public amazon S3 bucket using AWS CLI](http://krparajuli.com/aws/amazon/s3/bucket/cli/2021/02/07/accessing-a-public-amazon-s3-bucket-using-aws-cli.html)
+
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)
 - [Prompt.ml XSS](http://prompt.ml/)

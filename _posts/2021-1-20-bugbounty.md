@@ -31,7 +31,8 @@ BugBounty links and tools
 - [OSINT with Dorks](https://dorks.faisalahmed.me/?fbclid=IwAR37l4KS21HbYPNAnNkEdh8fwEP8Vo-ekDwNkLYoLsQPWR9ulvBpGY9YrSw#)
 - [All is XSS that comes to the .NET](https://blog.isec.pl/all-is-xss-that-comes-to-the-net/)
 - [Stealing JWTs in localStorage via XSS](https://github.com/ltiisidii/ltiisidii/blob/master/_posts/2021-1-20-bugbounty.md)
-
+- [Git tricks](https://www.adityathebe.com/journal/4)
+ 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)
 - [Prompt.ml XSS](http://prompt.ml/)

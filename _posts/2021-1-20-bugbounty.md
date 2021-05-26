@@ -95,6 +95,7 @@ Tools:
 - [requestbin](https://requestbin.com)
 - [webhook site](https://webhook.site/)
 - [ssrftest](https://ssrftest.com)
+- [ysoserial: tool for generating payloads that exploit unsafe Java object deserialization](https://github.com/frohoff/ysoserial)
 
 Intigriti Challenges 
 - March 2021 [Intigriti — XSS Challenge 0321 XSS with CSRF Bypass](https://fh4ntke.medium.com/intigriti-xss-challenge-0321-472ae0a48254)

